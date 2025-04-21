@@ -4,7 +4,7 @@ Performance case study of OpenVPN on a consumer router (CSE 567M project data/co
 This repository contains data, experimental results, and supporting code for the class project paper titled:
 
 **“Performance Case Study of OpenVPN on a Consumer Router”**  
-CSE 567M: Computer Systems Analysis
+CSE 567M: Computer Systems Analysis  
 Washington University in St. Louis – Fall 2008  
 Instructor: Dr. Raj Jain  
 Author: Michael J. Hall
