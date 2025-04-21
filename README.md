@@ -29,9 +29,6 @@ This project investigates the performance characteristics of OpenVPN running on 
 - `configs/`  
   OpenVPN server and client configuration files used during testing.
 
-- `report/`  
-  LaTeX source (optional) of the paper submitted to arXiv.
-
 ## 🧪 Experimental Setup
 
 The tests were conducted using a [Router Model Name] flashed with [OpenWRT/DD-WRT/stock firmware] and an OpenVPN server configured with [encryption method, cipher, etc.]. Client machines were connected over [Wi-Fi / Ethernet] and used to simulate realistic VPN traffic patterns using `iperf3`, `netperf`, and custom scripts.
