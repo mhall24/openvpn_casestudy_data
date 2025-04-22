@@ -1,21 +1,14 @@
 # Data from Performance Analysis of OpenVPN on a Consumer Grade Router
-Performance case study of OpenVPN on a consumer router (CSE 567M project data/code)
 
 This repository contains data, experimental results, and supporting code for the class project paper titled:
 
 **“Performance Analysis of OpenVPN on a Consumer Grade Router”**  
 CSE 567M: Computer Systems Analysis  
-Washington University in St. Louis – Fall 2008  
+Washington University in St. Louis – November 2008  
 Instructor: Dr. Raj Jain  
 Author: Michael J. Hall
 
-The paper is available online on [Dr. Jain's course website](https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html) and will also be submitted to [arXiv](https://arxiv.org/).
-
-The data, experimental results, and scripts in this repository were originally created and collected in **November 2008** as part of the course project. This GitHub repository serves as a permanent archival copy of that work.
-
-## Overview
-
-This project investigates the performance characteristics of OpenVPN running on a consumer-grade router under various configurations and workloads.
+The paper is available online on [Dr. Jain's course website](https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html). This GitHub repository serves as a permanent archival copy of that work done in November 2008.
 
 ## Repository Contents
 
