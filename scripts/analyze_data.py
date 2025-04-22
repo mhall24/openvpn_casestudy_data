@@ -1,5 +1,7 @@
 #!/bin/env python
 
+# Python 2.7
+
 import numpy
 import scipy.stats
 
