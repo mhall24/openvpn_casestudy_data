@@ -27,18 +27,21 @@ If you use this code or dataset, please cite one or more of the following as app
 
 ### Original Class Paper  
 Michael Hall, _“Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
-CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis,  
+Supervised by Prof. Raj Jain, November 2008.  
 Available at: [https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html](https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html)
 
 ### arXiv Preprint (when available)  
 Michael Hall, _“Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
-CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis,  
+Supervised by Prof. Raj Jain, November 2008.  
 arXiv, [arXiv ID to be inserted once published].  
 [https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
 
 ### GitHub Data Repository  
 Michael Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
-CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis,  
+Supervised by Prof. Raj Jain, November 2008.  
 GitHub Repository, 2025.  
 Available at: [https://github.com/mhall24/openvpn_casestudy_cse567m_data](https://github.com/mhall24/openvpn_casestudy_cse567m_data)
 
