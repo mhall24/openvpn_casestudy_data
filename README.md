@@ -1,4 +1,4 @@
-# OpenVPN Case Study
+# Data from Performance Analysis of OpenVPN on a Consumer Grade Router
 Performance case study of OpenVPN on a consumer router (CSE 567M project data/code)
 
 This repository contains data, experimental results, and supporting code for the class project paper titled:
@@ -28,13 +28,26 @@ This project investigates the performance characteristics of OpenVPN running on 
 - `configs/`  
   OpenVPN server and client configuration files used during testing.
 
-## 📜 Citation
+## 📜 Citations
 
-If you use this code or dataset, please cite the class paper or link back to this repository:
+If you use this code or dataset, please cite one or more of the following as appropriate:
 
-Michael Hall, “Performance Analysis of OpenVPN on a Consumer Grade Router,”
-CSE 567M, Washington University in St. Louis, November 2008, a survey paper written under the guidance of Prof. Raj Jain.
-Available online: https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html.
+### 🔹 Original Class Paper  
+Michael Hall, “Performance Analysis of OpenVPN on a Consumer Grade Router,”  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+Available at: [https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html](https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html)
+
+### 🔹 arXiv Preprint (when available)  
+Michael Hall, *“Performance Analysis of OpenVPN on a Consumer Grade Router,”*  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+arXiv, [arXiv ID to be inserted once published].  
+[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+
+### 🔹 GitHub Data Repository  
+Michael Hall, *“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”*  
+CSE 567M: Computer Systems Analysis, Washington University in St. Louis, Supervised by Prof. Raj Jain, November 2008.  
+GitHub Repository, 2025.  
+Available at: [https://github.com/mhall24/openvpn_casestudy_cse567m_data](https://github.com/mhall24/openvpn_casestudy_cse567m_data)
 
 ## 📄 License
 
