@@ -12,14 +12,14 @@ The paper is available online on [Dr. Jain's course website](https://www.cse.wus
 
 ## Repository Contents
 
+- `configs/`  
+  OpenVPN server and client configuration files used during testing.
+
 - `data/`  
   Raw and processed data from experiments, including throughput, latency, and CPU usage measurements.
 
 - `scripts/`  
   Bash and Python scripts used to run experiments, collect data, and analyze the results.
-
-- `configs/`  
-  OpenVPN server and client configuration files used during testing.
 
 ## Citations
 
