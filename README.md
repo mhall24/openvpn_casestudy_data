@@ -8,7 +8,7 @@ Washington University in St. Louis – November 2008
 Instructor: Dr. Raj Jain  
 Author: Michael J. Hall
 
-The original paper is available online at: https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html. This GitHub repository serves as a permanent archival copy of that work done in November 2008.
+The original paper is available at [this link](https://www.cse.wustl.edu/~jain/cse567-08/ftp/ovpn/index.html). This GitHub repository serves as a permanent archival copy of the work completed in November 2008.
 
 ## Repository Contents
 
