@@ -25,7 +25,7 @@ The paper is available online on [Dr. Jain's course website](https://www.cse.wus
 
 If you use this code or dataset, please cite one or more of the following as appropriate:
 
-### arXiv (when available)  
+### Paper  
 Michael Hall, _“Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
 arXiv, [arXiv ID to be inserted once published].  
 [https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
