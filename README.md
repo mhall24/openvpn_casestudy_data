@@ -21,7 +21,7 @@ The original paper is available at [this link](https://www.cse.wustl.edu/~jain/c
 - `scripts/`  
   Bash and Python scripts used to run experiments, collect data, and analyze the results.
 
-## Recommended Citations
+## Citations
 
 Recommended citations for this work and associated materials:
 
