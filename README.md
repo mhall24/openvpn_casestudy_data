@@ -27,15 +27,13 @@ If you use this code or dataset, please cite one or more of the following as app
 
 ### arXiv (when available)  
 Michael Hall, _“Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
-CSE 567M: Computer Systems Analysis, Washington University in St. Louis,  
-November 2008, supervised by Prof. Raj Jain.  
 arXiv, [arXiv ID to be inserted once published].  
 [https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
 
+[//]: # ([5] Xavier Bresson and Thomas Laurent. 2017. Residual Gated Graph ConvNets. arXiv preprint. arXiv:1711.07553)
+
 ### GitHub Data Repository  
-Michael Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
-CSE 567M: Computer Systems Analysis, Washington University in St. Louis,  
-November 2008, supervised by Prof. Raj Jain.  
+Michael Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_
 GitHub Repository, 2025.  
 Available: [https://github.com/mhall24/openvpn_casestudy_cse567m_data](https://github.com/mhall24/openvpn_casestudy_cse567m_data)
 
