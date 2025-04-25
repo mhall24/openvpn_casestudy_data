@@ -35,7 +35,7 @@ arXiv, [arXiv ID to be inserted once published].
 ### GitHub Data Repository
 Michael Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_
 GitHub Repository, 2025.  
-Available: [https://github.com/mhall24/openvpn_casestudy_cse567m_data](https://github.com/mhall24/openvpn_casestudy_cse567m_data)
+Available: [https://github.com/mhall24/openvpn_casestudy_cse567m_data](https://github.com/mhall24/openvpn_casestudy_data)
 
 ## License
 
