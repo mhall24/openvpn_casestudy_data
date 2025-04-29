@@ -25,6 +25,9 @@ Author: Michael J. Hall
 
 ## Citations
 
+For convenience, a BibTeX file containing the recommended citations is available:  
+[BibTeX Citation File](citations.bib).
+
 Recommended citations for this work and associated materials:
 
 ### Paper
@@ -33,9 +36,9 @@ Michael J. Hall, _“Performance Analysis of OpenVPN on a Consumer Grade Router,
 arXiv, 2025. arXiv:2504.19069. doi: 10.48550/arXiv.2504.19069.  
 Available: [https://arxiv.org/abs/2504.19069](https://arxiv.org/abs/2504.19069)
 
-### GitHub Data Repository
+### Data Repository
 
-Michael J. Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_
+Michael J. Hall, _“Data from Performance Analysis of OpenVPN on a Consumer Grade Router,”_  
 GitHub Repository, 2025.  
 Available: [https://github.com/mhall24/openvpn_casestudy_data](https://github.com/mhall24/openvpn_casestudy_data)
 
